@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Payment Gateway Demo</string>
+    <!--
+       WARNING: Do not store your Key Id, Key Secret or order_id in the app.
+       Instead it can be fetched from the server as the metadata of the app.
+    -->
+    <string name="razorpay_api_key">rzp_test_xxxx</string>
+    <string name="razorpay_order_id">order_xxxx</string>
+</resources>
