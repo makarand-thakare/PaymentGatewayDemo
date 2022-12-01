@@ -1,6 +1,6 @@
-# PaymentGatewayDemo
+# Payment Gateway integration with Android app
 
-Demo project showing the Payment gateway integration with Razorpay. 
+Demo project showing the Razorpay's Payment gateway integration with Android app. 
 
 Visit <a href="https://razorpay.com/docs/payments/payment-gateway/android-integration/standard/build-integration/">Razorpay docs<a/>
 
